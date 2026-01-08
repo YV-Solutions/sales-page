@@ -19,6 +19,7 @@ function App() {
       <Contrast />
       <Anchoring />
       <Proposal />
+      <footer className="bg-slate-50 py-4"><p className="text-sm text-center text-slate-500">© Y&V Solutions LTDA. Todos os Direitos Reservados.</p></footer>
     </div>
   )
 }
