@@ -122,7 +122,7 @@ const Proposal = () => {
                                 <span>R$ 7.950<span className="text-lg font-medium text-gray-500">/mês</span></span>
                             </div>
                             <button
-                                onClick={() => window.open("https://docs.google.com/forms/d/1UPvhwlOY_XxfF1oos_sTJY02f4VZGpCVOuxalxpUCX4/edit?ts=69611d27", "_blank")}
+                                onClick={() => window.open("https://forms.gle/sbyfmfGPao7yxAoN7", "_blank")}
                                 className="
                                     w-full
                                     flex items-center justify-center gap-2

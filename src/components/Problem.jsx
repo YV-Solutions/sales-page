@@ -40,7 +40,7 @@ const Problem = () => {
 
                         {/* CTA - mobile */}
                         <div className="md:hidden flex justify-center">
-                            <a href="#anchoring" className="inline-flex items-center px-8 py-3 bg-gradient-to-r from-indigo-900 to-blue-600 text-white font-medium rounded-md hover:from-indigo-800 hover:to-blue-500 transition shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+                            <a href="#proposta" className="inline-flex items-center px-8 py-3 bg-gradient-to-r from-indigo-900 to-blue-600 text-white font-medium rounded-md hover:from-indigo-800 hover:to-blue-500 transition shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
                                 <ShoppingCart className="inline-block mr-2 w-5 h-5" /> QUERO ACABAR COM O PROCESSO MANUAL!
                             </a>
                         </div>
@@ -55,7 +55,7 @@ const Problem = () => {
 
                 {/* CTA - desktop */}
                 <div className="hidden md:flex justify-center">
-                    <a href="#anchoring" className="inline-flex items-center px-8 py-3 bg-gradient-to-r from-indigo-900 to-blue-600 text-white font-medium rounded-md hover:from-indigo-800 hover:to-blue-500 transition shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+                    <a href="#proposta" className="inline-flex items-center px-8 py-3 bg-gradient-to-r from-indigo-900 to-blue-600 text-white font-medium rounded-md hover:from-indigo-800 hover:to-blue-500 transition shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
                         <ShoppingCart className="inline-block mr-2 w-5 h-5" /> QUERO ACABAR COM O PROCESSO MANUAL!
                     </a>
                 </div>
@@ -109,7 +109,7 @@ const Problem = () => {
                         </p>
 
                         <div className="pt-2">
-                            <a href="#anchoring" className="inline-flex items-center text-indigo-700 font-semibold hover:text-indigo-900 transition">
+                            <a href="#proposta" className="inline-flex items-center text-indigo-700 font-semibold hover:text-indigo-900 transition">
                                 Sair do ciclo vicioso <ArrowRight className="ml-2 w-4 h-4" />
                             </a>
                         </div>
@@ -189,7 +189,7 @@ const Problem = () => {
 
                             {/* Botão alinhado à esquerda */}
                             <div className="flex justify-start">
-                                <a href="#anchoring" className="inline-flex items-center px-8 py-3 bg-gradient-to-r from-indigo-900 to-blue-600 text-white font-medium rounded-md hover:from-indigo-800 hover:to-blue-500 transition shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+                                <a href="#proposta" className="inline-flex items-center px-8 py-3 bg-gradient-to-r from-indigo-900 to-blue-600 text-white font-medium rounded-md hover:from-indigo-800 hover:to-blue-500 transition shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
                                     <ShoppingCart className="inline-block mr-2 w-5 h-5" /> QUERO AUTOMATIZAR AGORA!
                                 </a>
                             </div>

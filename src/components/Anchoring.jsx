@@ -1,6 +1,6 @@
 const Anchoring = () => {
     return (
-        <div id="anchoring" className="max-w-3xl mx-auto my-12 text-center space-y-6">
+        <div id="proposta" className="max-w-3xl mx-auto my-12 text-center space-y-6">
             <h2 className="text-2xl font-bold text-slate-800">
                 A Matemática da Decisão
             </h2>

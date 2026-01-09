@@ -31,7 +31,7 @@ const Roadmap = () => {
                 </div>
 
                 <div className="flex justify-center mt-12">
-                    <a href="#anchoring" className="inline-flex items-center px-8 py-3 bg-indigo-900 text-white font-semibold rounded-md border-2 border-transparent hover:bg-slate-50 hover:text-indigo-900 hover:border-indigo-900 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105">
+                    <a href="#proposta" className="inline-flex items-center px-8 py-3 bg-indigo-900 text-white font-semibold rounded-md border-2 border-transparent hover:bg-slate-50 hover:text-indigo-900 hover:border-indigo-900 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105">
                         <ShoppingCart className="inline-block mr-2 w-5 h-5" /> VAMOS FECHAR ESSA PARCERIA!!
                     </a>
                 </div>

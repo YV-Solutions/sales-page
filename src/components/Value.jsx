@@ -134,7 +134,7 @@ const Value = () => {
       </div>
 
       <div className="flex justify-center">
-        <a href="#anchoring" className="inline-flex items-center px-8 py-3 bg-gradient-to-r from-indigo-900 to-blue-600 text-white font-medium rounded-md hover:from-indigo-800 hover:to-blue-500 transition shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+        <a href="#proposta" className="inline-flex items-center px-8 py-3 bg-gradient-to-r from-indigo-900 to-blue-600 text-white font-medium rounded-md hover:from-indigo-800 hover:to-blue-500 transition shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
           <ShoppingCart className="inline-block mr-2 w-5 h-5" /> QUERO CRESCER SEM DOR DE CABEÇA!
         </a>
       </div>

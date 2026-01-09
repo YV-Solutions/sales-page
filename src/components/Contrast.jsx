@@ -26,7 +26,7 @@ const Contrast = () => {
                 </div>
 
                 <div className="flex justify-center mt-12">
-                    <a href="#anchoring" className="inline-flex items-center px-8 py-3 bg-teal-600 text-white font-semibold rounded-md hover:bg-white hover:text-teal-600 transition shadow-lg hover:shadow-xl transform hover:-scale-101inline-flex items-center px-8 py-3 bg-teal-600 text-white font-semibold rounded-md hover:bg-white hover:text-teal-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105">
+                    <a href="#proposta" className="inline-flex items-center px-8 py-3 bg-teal-600 text-white font-semibold rounded-md hover:bg-white hover:text-teal-600 transition shadow-lg hover:shadow-xl transform hover:-scale-101inline-flex items-center px-8 py-3 bg-teal-600 text-white font-semibold rounded-md hover:bg-white hover:text-teal-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105">
                         <ShoppingCart className="inline-block mr-2 w-5 h-5" /> QUERO LIBERDADE PARA ESCALAR!
                     </a>
                 </div>
