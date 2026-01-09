@@ -28,7 +28,7 @@ const Hero = () => {
         <a href="#anchoring" className="inline-flex items-center mt-8 md:mt-2 px-6 py-3 bg-gradient-to-r from-indigo-900 to-blue-600 text-white font-medium rounded-lg hover:from-indigo-800 hover:to-blue-500 transition-all duration-300 shadow-lg">
           <ShoppingCart className="inline-block mr-2 w-5 h-5" /> QUERO TRANSFORMAR MINHAS VENDAS! 
         </a>
-        <p className="text-xs font-medium text-gray-500 mt-1">Setup + Assinatura Mensal. Início Em Até 7 Dias Após Confirmação.</p>
+        <p className="text-xs font-medium text-gray-500 mt-1">Setup + Assinatura Mensal. Início Em Aprox. 7 Dias Após Confirmação.</p>
       </div>
     </div>
   )

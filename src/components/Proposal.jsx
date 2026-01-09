@@ -146,7 +146,7 @@ const Proposal = () => {
                             <p className="mt-4 text-xs text-gray-500 max-w-sm mx-auto leading-relaxed">
                                 Setup + Assinatura Mensal · <span className="font-bold text-gray-800">Contrato de 12 meses</span>
                                 <br />
-                                Início em até 7 dias após assinatura da proposta
+                                Início em aprox. 7 dias após assinatura da proposta
                             </p>
 
                             {/* CTA Secundário */}
