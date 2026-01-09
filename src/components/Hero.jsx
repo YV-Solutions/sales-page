@@ -20,7 +20,7 @@ const Hero = () => {
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
                     /> */}
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/oI834lg748o?si=pHcvv6Tq4sVe1nto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe className="absolute inset-0 w-full h-full max-w-full" src="https://www.youtube.com/embed/oI834lg748o?si=pHcvv6Tq4sVe1nto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
