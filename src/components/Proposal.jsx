@@ -122,6 +122,7 @@ const Proposal = () => {
                                 <span>R$ 7.950<span className="text-lg font-medium text-gray-500">/mês</span></span>
                             </div>
                             <button
+                                onClick={() => window.open("https://docs.google.com/forms/d/1UPvhwlOY_XxfF1oos_sTJY02f4VZGpCVOuxalxpUCX4/edit?ts=69611d27", "_blank")}
                                 className="
                                     w-full
                                     flex items-center justify-center gap-2
@@ -151,7 +152,7 @@ const Proposal = () => {
 
                             {/* CTA Secundário */}
                             <div className="mt-8 pt-6 border-t border-gray-200/60">
-                                <button className="group inline-flex items-center text-sm text-slate-500 hover:text-indigo-700 font-medium transition-colors">
+                                <button onClick={() => window.open("https://wa.me/5577998195049?text=Olá,%20tenho%20dúvidas%20sobre%20a%20proposta", "_blank")} className="group inline-flex items-center text-sm text-slate-500 hover:text-indigo-700 font-medium transition-colors">
                                     <MessageCircleQuestion className="w-4 h-4 mr-2 text-slate-400 group-hover:text-indigo-600" />
                                     <span className="underline decoration-slate-300 underline-offset-4 group-hover:decoration-indigo-300">
                                         Ainda Tenho dúvidas. Quero Negociar!
